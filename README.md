@@ -11,7 +11,7 @@ In this exercise you will build a simple yet powerful webpack boilerplate, which
 ## Instructions:
 
 - First set up a new GitHub repository for this exercise.
-- Follow the instructions from the getting ![started guide](https://webpack.js.org/guides/getting-started/#basic-setup) to set up the basics. Implement all the steps from Basic Setup to NPM Scripts.
+- Follow the instructions from the getting [started guide](https://webpack.js.org/guides/getting-started/#basic-setup) to set up the basics. Implement all the steps from Basic Setup to NPM Scripts.
 
 ## Add HTML:
 
